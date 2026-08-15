@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# Girish Pawar — Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for Girish Pawar.
 
 How to use
 
